@@ -21,4 +21,3 @@
 -It allows you to start the game  
 -Ask for a new card  
 -Restart game  
---testing
